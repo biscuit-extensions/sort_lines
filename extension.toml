@@ -1,0 +1,7 @@
+[extension]
+id = "sort_lines"
+name = "Sort Lines"
+version = "0.1.0"
+description = "Sort Lines extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
